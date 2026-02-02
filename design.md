@@ -311,7 +311,7 @@ SearchConfiguration:
     ]
   }
 }
-
+```
 ## Data Models
 
 ### Core Data Structures
@@ -807,7 +807,7 @@ sequenceDiagram
     BC->>FE: Formatted Bharat Response
     FE->>U: Display Conceptual Mapping
     Note over FE: "Pod = Dabba in crate<br/>Why: Both group related items<br/>that must travel together"
-
+```
 ### Live Diagnostic Heatmap Update Flow
 
 ```mermaid
@@ -1055,3 +1055,4 @@ This enhanced design now directly addresses the "Learn Faster" mission by:
 
 
 The system becomes not just a code visualization tool, but an intelligent learning assistant that guides developers through unfamiliar codebases using both visual cues and cultural context.
+
